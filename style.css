@@ -1,0 +1,46 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+
+.note{
+    font-size: 15px;
+    color:black;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+.div_img{
+    width:200px;
+    border-radius:100px;
+}
+
+#volume, #speed{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_volume{
+    float: right;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+select{
+    width: 160px;
+    height: 40px;
+    background-color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
